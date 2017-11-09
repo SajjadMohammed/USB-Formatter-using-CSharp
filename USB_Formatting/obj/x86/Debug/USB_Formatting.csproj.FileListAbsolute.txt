@@ -1,0 +1,17 @@
+D:\برامجC#\MyProjects\USB_Formatting\USB_Formatting\bin\Debug\USB_Formatting.exe
+D:\برامجC#\MyProjects\USB_Formatting\USB_Formatting\bin\Debug\USB_Formatting.pdb
+D:\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.Form1.resources
+D:\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.Properties.Resources.resources
+D:\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.csproj.GenerateResource.Cache
+D:\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.exe
+D:\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.pdb
+D:\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.csprojResolveAssemblyReference.cache
+E:\برامجC#\برامجC#\MyProjects\USB_Formatting\USB_Formatting\bin\Debug\USB_Formatting.exe
+E:\برامجC#\برامجC#\MyProjects\USB_Formatting\USB_Formatting\bin\Debug\USB_Formatting.pdb
+E:\برامجC#\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.csprojResolveAssemblyReference.cache
+E:\برامجC#\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.Form1.resources
+E:\برامجC#\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.Properties.Resources.resources
+E:\برامجC#\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.csproj.GenerateResource.Cache
+E:\برامجC#\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.csproj.CoreCompileInputs.cache
+E:\برامجC#\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.exe
+E:\برامجC#\برامجC#\MyProjects\USB_Formatting\USB_Formatting\obj\x86\Debug\USB_Formatting.pdb
